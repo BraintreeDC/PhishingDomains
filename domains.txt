@@ -1,2 +1,2 @@
 example.com
-eample.org
+example.org
