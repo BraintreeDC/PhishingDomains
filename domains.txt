@@ -201,3 +201,4 @@ xml-eu-v4.gipostart-1.co
 c.seznam.cz
 xml-v4.gipostart-1.co
 gipostart-1.co
+analytics-manager.com
