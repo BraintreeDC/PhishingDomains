@@ -228,3 +228,4 @@ my.forms.app
 trk-mkt.tason.com
 mi-mercadito.mx
 chanttal.ro
+eu-ny.com
