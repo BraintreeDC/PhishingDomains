@@ -269,3 +269,5 @@ shaheensolarcompany.com.pk
 gp1tickets.com
 goat.app.link
 goat.com
+page.link
+pages.link
