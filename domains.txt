@@ -271,3 +271,4 @@ goat.app.link
 goat.com
 page.link
 pages.link
+media.graphassets.com
