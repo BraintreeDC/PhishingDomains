@@ -338,3 +338,7 @@ tdcs.sk
 www.tdcs.sk
 login-rnicrosotfonline-serviceportal-clientid-oauth2-v24.olspk.com
 olspk.com
+pdf2doconvert.com
+uk-24news.live
+www.popai.pro
+popai.pro
