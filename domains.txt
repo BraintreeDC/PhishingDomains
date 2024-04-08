@@ -463,3 +463,5 @@ marvin-occentus.net
 pelliancalmato.com
 madehimalowbo.info
 hesgoal.run
+assets.afs-static.com
+afs-static.com
