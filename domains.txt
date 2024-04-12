@@ -467,3 +467,5 @@ assets.afs-static.com
 afs-static.com
 www.theunspokenpitch.com
 theunspokenpitch.com
+officeshd.one
+officeshd.top
