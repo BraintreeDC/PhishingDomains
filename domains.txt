@@ -486,3 +486,5 @@ cdnweb2analytics.com
 trendwearind.com
 565177be.1f7a76403486e872e5d4bd36.workers.dev
 1f7a76403486e872e5d4bd36.workers.dev
+mail.lgflmail.org
+lgflmail.org
