@@ -522,3 +522,4 @@ bmeg.fel.cvut.cz
 fel.cvut.cz
 cvut.cz
 debaucky.com
+edge.ds-c7110-microsoft.global.dns.qwilted-cds.cqloud.com
