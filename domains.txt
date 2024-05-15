@@ -523,3 +523,5 @@ fel.cvut.cz
 cvut.cz
 debaucky.com
 edge.ds-c7110-microsoft.global.dns.qwilted-cds.cqloud.com
+admin.trustindex.io
+trustindex.io
