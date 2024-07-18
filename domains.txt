@@ -573,3 +573,4 @@ c.kajabimail.net
 kajabimail.net
 businesshelpcenter.tech
 ln.run
+gencat.cat
