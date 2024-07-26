@@ -579,3 +579,4 @@ sftrm.ru
 w1.mssrtv.com
 static.uwalls.co.uk
 k3._domainkey.gamingloot.co.uk
+k3.domainkey.gamingloot.co.uk
