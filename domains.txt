@@ -581,5 +581,3 @@ static.uwalls.co.uk
 jswebcache.com
 dalexglobal.com
 live.primis.tech
-gfr-tool-399221.nw.r.appspot.com
-dev-jx8zt4dgnfm4dyf2.uk.auth0.com
