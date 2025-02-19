@@ -619,3 +619,5 @@ e9788f09.jhancock-ed1.workers.dev
 jhancock-ed1.workers.dev
 app.faceveee.com
 faceveee.com
+app.balidewatransport.com
+balidewatransport.com
