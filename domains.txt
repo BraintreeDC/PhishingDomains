@@ -654,3 +654,5 @@ govern1.com
 wiztree.co.uk
 onestart.ai
 browserdefaults4.azurewebsites.net
+smtpget.com
+smtpwire.com
