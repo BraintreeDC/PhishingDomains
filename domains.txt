@@ -661,3 +661,11 @@ x.fidelity-media.com
 fidelity-media.com
 manage.veranoresorts.com
 veranoresorts.com
+dct.wavebrowser.co
+a.usbrowserspeed.com
+usbrowserspeed.com
+cookiesync-446990137.us-west-2.elb.amazonaws.com
+rt.marphezis.com
+marphezis.com
+ext.wavebrowserbase.com
+wavebrowserbase.com
