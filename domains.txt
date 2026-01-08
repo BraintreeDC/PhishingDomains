@@ -671,3 +671,4 @@ wavebrowserbase.com
 perf-test.sufycdn.com.cname.mdn.sufydns.com
 perf-test.sufycdn.com
 cleareditpdf.com
+pdfigniteapi.com
