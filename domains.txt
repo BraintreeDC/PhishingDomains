@@ -679,3 +679,4 @@ neweuropecapital.pl
 essexbus.info
 search.app
 infoshareplussupport.ciamlogin.com
+infoshareplussupport.powerappsportals.com
